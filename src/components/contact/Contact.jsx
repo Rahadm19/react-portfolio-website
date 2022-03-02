@@ -21,13 +21,13 @@ const Contact = () => {
             <BsFacebook className='contact_option-icon'/>
             <h4>Facebook</h4>
             <h5>Ra Had</h5>
-            <a href="https://web.facebook.com/ra.had.908132/" target='_blank'>Go to facebook</a>
+            <a href="https://web.facebook.com/ra.had.908132/" target='_blank' rel="noreferrer">Go to facebook</a>
           </article>
           <article className="contact_option">
             <IoLogoWhatsapp className='contact_option-icon'/>
             <h4>WhatsApp</h4>
             <h5>+8801703363009</h5>
-            <a href="https://api.whatsapp.com/send?phone=+8801703363009" target='_blank'>Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone=+8801703363009" target='_blank' rel="noreferrer" >Send a message</a>
           </article>
 
         </div>
