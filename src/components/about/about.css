@@ -14,11 +14,10 @@
 .about_me-image{
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(6deg);
     transition: var(--transition);
 }
 .about_me-image:hover{
-    transform: rotate(0);
+    transform: rotate(6deg);
 }
 .about_cards{
     display: flex;

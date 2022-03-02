@@ -59,9 +59,9 @@ header{
 
 /* media quary for small divice  */
 
-@media screen and (max-width:490px) {
+@media screen and (max-width:300px) {
      header{
-         height: 80vh;
+         height: 100vh;
          padding: 1rem;
      }
      .header_social,
@@ -69,4 +69,28 @@ header{
          display: none;
      }
 
+}
+@media screen and (min-width: 300px) {
+    header{
+        height: 80vh;
+        padding: 1rem;
+    }
+}
+@media screen and (min-width:576px) {
+    header{
+        height: 55vh;
+        padding: 1rem;
+    }
+}
+@media screen and (min-width:768px) {
+    header{
+        height: 80vh;
+        padding: 1rem;
+    }
+}
+@media screen and (min-width:820px) {
+    header{
+        height: 60vh;
+        padding: 1rem;
+    }
 }
