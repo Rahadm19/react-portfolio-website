@@ -94,3 +94,9 @@ header{
         padding: 1rem;
     }
 }
+@media screen and (min-width:992px) {
+    header{
+        height: 120vh;
+        padding: 1rem;
+    }
+}
