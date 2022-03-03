@@ -34,6 +34,9 @@ body{
     color: var(--color-white);
     line-height: 1.7;
     background-image: url(../src/assets/rubber_texture1061.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 /* general style  */
 

@@ -10,7 +10,6 @@ const About = () => {
     <section id='about'>
       <h5>Get to Know</h5>
       <h1>About Me</h1>
-      <br /><br /><br />
       <div className="container about_container">
         <div className="about_me">
             <div className="about_me-image">
