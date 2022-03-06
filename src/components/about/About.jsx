@@ -10,6 +10,7 @@ const About = () => {
     <section id='about'>
       <h5>Get to Know</h5>
       <h1>About Me</h1>
+      <br /> <br /> 
       <div className="container about_container">
         <div className="about_me">
             <div className="about_me-image">
@@ -34,7 +35,9 @@ const About = () => {
                 <small>100+ Projects</small>
               </article>
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto cupiditate eveniet voluptatem, ipsa velit reprehenderit quae, eum ratione mollitia consectetur quo. Dolorum dicta, perferendis illum vero tenetur eligendi ex expedita!</p>
+            <p>Innovative team player with a passion for continuous learning 
+              and strong knowledge of different types of web technologies.
+              To get an opportunity where I can make the best of my potential and contribute to the organization's growth.</p>
             <a href="#contact" className='btn buton btn-primary'>Let's Talk</a>
         </div>
       </div>

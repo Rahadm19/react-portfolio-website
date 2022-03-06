@@ -15,23 +15,23 @@ const Services = () => {
             <ul className="service_list">
               <li>
                 <AiFillCheckCircle className='service_list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <p>Gather and evaluate user requirements in collaboration with product managers and engineers</p>
               </li>
               <li>
                 <AiFillCheckCircle className='service_list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <p>Designing graphic user interface elements, like menus, tabs and widgets</p>
               </li>
               <li>
                 <AiFillCheckCircle className='service_list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <p>Build page navigation buttons and search fields</p>
               </li>
               <li>
                 <AiFillCheckCircle className='service_list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <p>Develop UI mockups and prototypes that clearly illustrate how sites function and look like</p>
               </li>
               <li>
                 <AiFillCheckCircle className='service_list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <p>Create original graphic designs (e.g. images, sketches and tables)</p>
               </li>
             </ul>
         </article>
@@ -43,27 +43,43 @@ const Services = () => {
             <ul className="service_list">
               <li>
                 <AiFillCheckCircle className='service_list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <p>creating website designs.</p>
               </li>
               <li>
                 <AiFillCheckCircle className='service_list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <p>producing sample sites</p>
               </li>
               <li>
                 <AiFillCheckCircle className='service_list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <p>meeting with clients to discuss requirements and/or project progress</p>
               </li>
               <li>
                 <AiFillCheckCircle className='service_list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <p>demonstrating and receiving feedback about draft sites</p>
               </li>
               <li>
                 <AiFillCheckCircle className='service_list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <p>keeping up to date with recent technological and software developments</p>
               </li>
               <li>
                 <AiFillCheckCircle className='service_list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <p>developing skills and expertise in appropriate software/programming languages such as HTML and Javascript</p>
+                
+              </li>
+              <li>
+                <AiFillCheckCircle className='service_list-icon'/>
+                <p>creating products that are user-friendly, effective and appealing</p>
+
+              </li>
+              <li>
+                <AiFillCheckCircle className='service_list-icon'/>
+                <p>digital retouching and image editing</p>
+
+              </li>
+              <li>
+                <AiFillCheckCircle className='service_list-icon'/>
+                <p>working as part of a multidisciplinary team</p>
+
               </li>
             </ul>
         </article>
